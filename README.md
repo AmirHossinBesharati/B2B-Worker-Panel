@@ -41,7 +41,7 @@
 <br><br>
 
 ## نحوه‌ی راه‌اندازی، تنظیمات و استفاده
-- [نصب به صورت Pages](docs/pages_installation_fa.md)
+- [نصب به صورت Pages](https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/docs/worker_installation_fa.md)
 - [نصب به صورت Worker](docs/worker_installation_fa.md)
 - [نحوه استفاده از پنل](docs/configuration_fa.md)
 
