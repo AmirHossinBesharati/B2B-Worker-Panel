@@ -1,1 +1,1 @@
-# -BPB-Worker-Panel
+# BPB-Worker-Panel
