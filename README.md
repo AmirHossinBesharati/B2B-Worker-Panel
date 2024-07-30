@@ -107,5 +107,5 @@
 ---
 
 - [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:zerohacking481@gmail.com)
-- [![telegram](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=telegram)](mailto:@Amirhbrad84)
+- [![telegram](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=telegram)](https://t.me/Amirhbrad84)
 
