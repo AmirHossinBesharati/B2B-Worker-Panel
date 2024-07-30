@@ -44,7 +44,7 @@
 - [نصب به صورت Pages](docs/pages_installation_fa.md)
 - [نصب به صورت Worker](docs/worker_installation_fa.md)
 - [نحوه استفاده از پنل](docs/configuration_fa.md)
-- [پرسش‌های متداول (FAQ)](docs/faq.md)
+
 <br>
 
 ## برنامه‌های پشتیبانی شده
